@@ -1,0 +1,3 @@
+[submodule "natours"]
+	path = natours
+	url = git@github.com:sankait36/natours.git
