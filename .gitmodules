@@ -4,3 +4,6 @@
 [submodule "trillo"]
 	path = trillo
 	url = https://github.com/sankait36/trillo.git
+[submodule "nexter"]
+	path = nexter
+	url = https://github.com/sankait36/nexter.git
